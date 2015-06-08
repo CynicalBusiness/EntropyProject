@@ -24,10 +24,15 @@
         <outputRelativeToContentRoot value="true" />
         <processorPath useClasspath="true" />
         <module name="EntropyProject" />
+        <module name="game" />
+        <module name="io" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
       <module name="EntropyProject" target="1.8" />
+      <module name="game" target="1.8" />
+      <module name="io" target="1.8" />
+      <module name="parent" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
