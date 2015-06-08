@@ -17,6 +17,7 @@
     <modules>
         <module>game</module>
         <module>io</module>
+        <module>structures</module>
     </modules>
 
     <build>

@@ -26,6 +26,7 @@
         <module name="EntropyProject" />
         <module name="game" />
         <module name="io" />
+        <module name="structures" />
       </profile>
     </annotationProcessing>
     <bytecodeTargetLevel>
@@ -33,6 +34,7 @@
       <module name="game" target="1.8" />
       <module name="io" target="1.8" />
       <module name="parent" target="1.8" />
+      <module name="structures" target="1.8" />
     </bytecodeTargetLevel>
   </component>
 </project>
